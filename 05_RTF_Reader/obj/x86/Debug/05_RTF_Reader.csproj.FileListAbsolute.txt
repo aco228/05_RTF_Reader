@@ -1,0 +1,9 @@
+c:\users\win7\documents\visual studio 2010\Projects\05_RTF_Reader\05_RTF_Reader\bin\Debug\05_RTF_Reader.exe
+c:\users\win7\documents\visual studio 2010\Projects\05_RTF_Reader\05_RTF_Reader\bin\Debug\05_RTF_Reader.pdb
+c:\users\win7\documents\visual studio 2010\Projects\05_RTF_Reader\05_RTF_Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2010\Projects\05_RTF_Reader\05_RTF_Reader\obj\x86\Debug\_05_RTF_Reader.Form1.resources
+c:\users\win7\documents\visual studio 2010\Projects\05_RTF_Reader\05_RTF_Reader\obj\x86\Debug\_05_RTF_Reader.Properties.Resources.resources
+c:\users\win7\documents\visual studio 2010\Projects\05_RTF_Reader\05_RTF_Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\win7\documents\visual studio 2010\Projects\05_RTF_Reader\05_RTF_Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\win7\documents\visual studio 2010\Projects\05_RTF_Reader\05_RTF_Reader\obj\x86\Debug\05_RTF_Reader.exe
+c:\users\win7\documents\visual studio 2010\Projects\05_RTF_Reader\05_RTF_Reader\obj\x86\Debug\05_RTF_Reader.pdb
